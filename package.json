@@ -1,0 +1,7 @@
+{
+  "name": "skill-test",
+  "version": "1.0.0",
+  "description": "This example demonstrates how to use an AWS Lambdas for your custom Alexa skill using the serverless framework.",
+  "author": "54chi based on nikgraf's repo",
+  "license": "MIT"
+}
